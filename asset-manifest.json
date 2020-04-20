@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1daecd1d.chunk.css",
+    "main.js": "/static/js/main.949f00e8.chunk.js",
+    "main.js.map": "/static/js/main.949f00e8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5f2f223d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5f2f223d.js.map",
+    "static/js/2.38ccad28.chunk.js": "/static/js/2.38ccad28.chunk.js",
+    "static/js/2.38ccad28.chunk.js.map": "/static/js/2.38ccad28.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.cf76ccfa302b6baf42b25b20cff1e4ca.js": "/precache-manifest.cf76ccfa302b6baf42b25b20cff1e4ca.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.1daecd1d.chunk.css.map": "/static/css/main.1daecd1d.chunk.css.map",
+    "static/js/2.38ccad28.chunk.js.LICENSE.txt": "/static/js/2.38ccad28.chunk.js.LICENSE.txt",
+    "static/media/btcpay-directory-logo-white.png": "/static/media/btcpay-directory-logo-white.a51d790b.png",
+    "static/media/btcpay-directory-logo.svg": "/static/media/btcpay-directory-logo.6e3359f9.svg",
+    "static/media/moonFilled.svg": "/static/media/moonFilled.7fe50f25.svg",
+    "static/media/sunFilled2.svg": "/static/media/sunFilled2.eae3aacd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f2f223d.js",
+    "static/js/2.38ccad28.chunk.js",
+    "static/css/main.1daecd1d.chunk.css",
+    "static/js/main.949f00e8.chunk.js"
+  ]
+}
