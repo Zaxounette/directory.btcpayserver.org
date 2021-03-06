@@ -1560,9 +1560,31 @@ export const list = [
     name: "Foundation Devices",
     url: "https://foundationdevices.com/",
     type: "merchants",
-	subType: "electronics",
+	  subType: "electronics",
     description:
       "Foundation Devices is building open hardware for Bitcoin and a sovereign, decentralized Internet – starting with a Bitcoin hardware wallet called Passport."
+  },
+  {
+    name: "BTCPayprovider.it",
+    url: "www.btcpayprovider.it",
+    type: "services",
+    description:
+      "BTCPay Server hosting and service provider in Italy."
+  },
+  {
+    name: "Crypto.ba",
+    url: "https://rxcpay.crypto.ba/",
+    type: "non-profits",
+    description:
+      "Crypto.ba is Balkan based blockchain educational forum that is providing BTCPAY services for free!"
+  },
+  {
+    name: "Bitcoin Book Store",
+    url: "https://bitcoinbook.store/",
+    type: "merchants",
+    subType: "books",
+    description:
+      "Buy books for BTC"
   },
   {
     name: "Consignator",
@@ -1571,4 +1593,26 @@ export const list = [
     description:
       "Consignator is the first European One Stop Shop bridge between EU and non-EU merchants allowing dropshipping and C2C transactions between Layer 2 and BTC."
   },
+  {
+    name: "Satoshi's Page",
+    url: "https://satoshispage.com/",
+    type: "merchants",
+    subType: "books",
+    description:
+      "Buy author Victoria Collette Jones's book - How Bitcoin Fixes This - with Bitcoin using BTCPay Server directly on the website."
+  },
+  {
+    name: "Bitcoin for life",
+    url: "https://bitcoinforlife.duckdns.org/",
+    type: "non-profits",
+    description:
+      "Donate with Lightning or on-chain Bitcoin to send humanity to the stars. It's done by minimizing existential threats, like nuclear weapons."
+  },
+  {
+    name: "BTC for me",
+    url: "https://btcpayserver.me/",
+    type: "hosts",
+    description:
+      "btcpayserver.me is open for registration."
+  }
 ];
